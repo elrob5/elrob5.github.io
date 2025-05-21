@@ -15,5 +15,5 @@ Mosquito-borne diseases; modeling, disease ecology; spatial analysis
 #### h4
 This is a link:\ 
 This is the link to the main Github [page](https://github.com/)\
-These are my [articles](articles)
+These are my [articles](articles.md)
 
